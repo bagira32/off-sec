@@ -1,1 +1,2 @@
-off-sec pen  test flash point
+off-sec pen  tester flash point
+print(result)
